@@ -50,6 +50,10 @@ ul {
   flex-direction: row;
 }
 
+.button-moves {
+  margin-bottom: 10px;
+}
+
 .game-info {
   margin-left: 20px;
 }
